@@ -199,4 +199,4 @@ This repository serves as the official landing page for Eurofurence. The softwar
 **Get the most recent version of Eurofurence today!**
 
 ---
-**Last updated:** 2026-11-11 09:10:55 UTC
+**Last updated:** 2026-11-11 17:49:31 UTC
